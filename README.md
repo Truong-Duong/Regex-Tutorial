@@ -171,3 +171,4 @@ My name is Truong Duong, and you can get in touch with me through:
 * Email: truong.duong1908@gmail.com
 * LinkedIn: https://www.linkedin.com/in/truongduong/
 * Personal website: https://txd.com/
+* Github: https://github.com/Truong-Duong/
